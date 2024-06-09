@@ -36,7 +36,3 @@ Você pode personalizar o programa alterando os seguintes parâmetros:
 
 - `frame.setBackground(Color.WHITE)`: Define a cor de fundo da janela. Você pode alterar o valor para outras cores disponíveis na classe `Color` ou usar valores RGB personalizados.
 
-## Dependências
-
-Este código não possui dependências externas além das bibliotecas padrão do Java.
-
